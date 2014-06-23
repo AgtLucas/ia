@@ -14,3 +14,5 @@ Relatório sobre IA
 ### Sistemas Especialistas
 ### CBR - Raciocínio Baseado em Casos
 ### Agentes Inteligentes
+
+* Entidade autônoma que observa através de sensores e toma alguma ação com atuadores
